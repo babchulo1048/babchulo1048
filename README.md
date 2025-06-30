@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Eyoel Demis 👋
 
-<!--
-**babchulo1048/babchulo1048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Backend Focused**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills  
+JavaScript | Python | Node.js | Spring Boot | Laravel | React | Vue | PostgreSQL | GraphQL | Docker | REST APIs
+
+---
+
+### 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=babchulo1048&show_icons=true&count_private=true&theme=radical)
+
+---
+
+✨ Thanks for visiting! 🚀  
