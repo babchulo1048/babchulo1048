@@ -9,9 +9,4 @@ JavaScript | Python | Node.js | Spring Boot | Laravel | React | Vue | PostgreSQL
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=babchulo1048&show_icons=true&count_private=true&theme=radical)
-
----
-
 ✨ Thanks for visiting! 🚀  
