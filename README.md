@@ -9,5 +9,7 @@ JavaScript | Python | Node.js | Spring Boot | Laravel | React | Vue | PostgreSQL
 
 ---
 
+[![Eyoel GitHub stats](https://github-readme-stats.vercel.app/api?username=babchulo1048)](https://github.com/babchulo1048/github-readme-stats)
+
 
 ✨ Thanks for visiting! 🚀  
