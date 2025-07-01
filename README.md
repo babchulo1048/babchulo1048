@@ -10,6 +10,7 @@ JavaScript | Python | Node.js | Spring Boot | Laravel | React | Vue | PostgreSQL
 ---
 
 [![Eyoel GitHub stats](https://github-readme-stats.vercel.app/api?username=babchulo1048)](https://github.com/babchulo1048/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babchulo1048)](https://github.com/babchulo1048/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babchulo1048&langs_count=8)
 
 ✨ Thanks for visiting! 🚀  
