@@ -1,6 +1,6 @@
-# Hey, I'm Eyoel Demis 👋
+# Hey, I'm Eyoel Demis 
 
-**Full Stack Developer | ML Engineer**
+**Software Engineer | AI & Computer Vision**
 
 ---
 
